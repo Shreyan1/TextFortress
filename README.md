@@ -1,5 +1,5 @@
 # TextFortress
-3-Level Symmetric Encryption and Decryption System
+A Python Work on 3-Level Symmetric Encryption and Decryption System.
 
 Hello Guys ! 
 
@@ -16,3 +16,6 @@ Also feel free to drop a mail to shreyanbasuray@proton.me.
 
 Also refer to my Visual architechture PDF file that I have attached here for the understanding of the code.
 And for the demo refer to my LinkedIn post at - 
+
+N.B - Although the Language percent is shown to be max for TEX and HTML, it is only so due to generating the .exe resulting in a bindle of dependencies.
+Don't worry, it is coded in Python exclusively and a little bit of .bat
